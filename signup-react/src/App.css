@@ -2,3 +2,15 @@
     margin: 150px auto;
     text-align: center;
 }
+
+.form-container {
+    min-width: 8em;
+    max-width: 20em;
+    background-color: rgba(76, 75, 80, 0.3);
+    padding: 1.5em;
+    margin: auto;
+}
+
+input {
+    margin-bottom: 0.2em;
+}
